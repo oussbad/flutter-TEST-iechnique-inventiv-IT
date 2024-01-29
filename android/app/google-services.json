@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "437797167182",
+    "project_id": "flutter-training-97807",
+    "storage_bucket": "flutter-training-97807.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437797167182:android:f52581670445306ed9231f",
+        "android_client_info": {
+          "package_name": "com.example.test_technique_inventiv_it"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXzZTKPdieVlXSJ0DskofkxS9IM2EQD0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
